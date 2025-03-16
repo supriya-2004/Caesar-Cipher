@@ -58,6 +58,3 @@ PLAINTEXT: hello
 - Uses a predefined alphabet (`abcdefghijklmnopqrstuvwxyz`) for letter lookup.
 - 🏗️ Handles both uppercase and lowercase inputs by converting all letters to lowercase.
 - ✨ Non-alphabet characters remain unchanged.
-
-## 📜 License
-This project is licensed under the MIT License.
