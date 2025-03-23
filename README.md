@@ -1,7 +1,7 @@
 # 🔐 Caesar Cipher Project
 
 ## 📌 Problem Statement
-Create a Python program that can encrypt or decrypt text using the Caesar cipher algorithm. The program should allow users to input a message and a shift value to perform encryption and decryption.
+This project is about creating a Python program that can encrypt or decrypt text using the Caesar cipher algorithm. The program should allow users to input a message and a shift value to perform encryption and decryption.
 
 ## ✨ Features
 - 🔒 Encrypts plaintext using a shift key (1-26).
